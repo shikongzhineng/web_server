@@ -1,0 +1,17 @@
+{
+  "name": "web_server",
+  "version": "1.0.0",
+  "description": "简单的文件服务器",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "shikongzhineng@163.com",
+  "license": "GPL-3.0-or-later"
+}
