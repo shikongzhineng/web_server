@@ -4,7 +4,7 @@
   "description": "简单的文件服务器",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serve-index": "^1.9.1"
   },
   "devDependencies": {},
